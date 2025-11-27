@@ -9,5 +9,5 @@ dependencies = [
     "numpy>=2.3.5",
     "opencv-python>=4.11.0.86",
     "scikit-learn>=1.7.2",
-    "tensorflow>=2.20.0",
+    "tensorflow[and-cuda]>=2.20.0",
 ]
